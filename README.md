@@ -6,7 +6,9 @@ En este proyecto se utiliza un conjunto de datos relacionado con la plataforma d
 
 ## Tecnologías Utilizadas
 -Python
+
 -Jupyter Notebook
+
 -Librerías de Python : Pandas, Matplotlib, Seaborn
 
 ## 1)Exploración de Datos
@@ -17,10 +19,18 @@ Se fue realizando un análisis por columnas para detectar si habia algun dato fa
 
 ## 3)Visualización
 Una vez obtenido el dataset limpio y preprocesado se realizan los siguientes gráficos:
+
 -Gráfico de torta indicando el contenido total (Series y Peliculas).
+
 -Gráfico de barras indicando los 15 directores con mas contenido en Netflix.
+
 -Gráfico de barras indicando los 5 países con mas contenido en Netflix.
+
 -Gráfico de lineas comparando la cantidad de lanzamientos de peliculas o TV show por año.
+
 -Gráfico de barras indicando las distintas categorías de contenido para las peliculas y otro para las series.
+
 -Histogramas indicando la duración de peliculas y series.
+
 -Gráficos de barras indicando las categorías de 10 peliculas y de series con mayor contenido en Netflix.
+
