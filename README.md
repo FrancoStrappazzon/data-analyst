@@ -35,4 +35,6 @@ Una vez obtenido el dataset limpio y preprocesado se realizan los siguientes gr�
 -Gráficos de barras indicando las categorías de 10 peliculas y de series con mayor contenido en Netflix.
 
 ![image](https://github.com/user-attachments/assets/7b93373e-bd19-4402-9326-c0f5b8a142b3)
+![image](https://github.com/user-attachments/assets/6ce496bb-21e4-4114-b932-117d4f682e1d)
+![image](https://github.com/user-attachments/assets/c6b089e6-b216-4c55-a7b9-1cf84147f045)
 
