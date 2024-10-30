@@ -38,3 +38,27 @@ Una vez obtenido el dataset limpio y preprocesado se realizan los siguientes gr�
 ![image](https://github.com/user-attachments/assets/6ce496bb-21e4-4114-b932-117d4f682e1d)
 ![image](https://github.com/user-attachments/assets/c6b089e6-b216-4c55-a7b9-1cf84147f045)
 
+
+# SPACE MISSION LAUNCHES
+En este proyecto se utiliza un conjunto de datos relacionado con lanzamientos de misiones espaciales, se realiza la limpieza, preprocesamiento y visualización de dichos datos.
+
+## Tecnologías Utilizadas
+-Python
+
+-Jupyter Notebook
+
+-Librerías de Python : Pandas
+
+-Power BI
+
+## 1)Exploración de Datos
+Se cargo un dataset de Space Mission Launches dado en formato csv, mediante funciones de la librería Pandas.
+
+## 2)Limpieza de Datos y Preprocesamiento
+Se fue realizando un análisis por columnas para detectar si habia algun dato faltante. Luego se analizaron todas las columnas de forma mas detallada y en caso de ser necesario se cambio el tipo de dato, nombre de la columna, se elimino la columna, etc.
+
+## 3)Visualización
+Una vez obtenido el dataset limpio se realizaron 2 dashboards interactivos en Power BI:
+![image](https://github.com/user-attachments/assets/ded76183-d6ee-4003-a368-7092f735873a)
+![image](https://github.com/user-attachments/assets/3a7a22fd-f29d-43b9-b709-1f77178d1cc8)
+
