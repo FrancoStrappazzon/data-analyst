@@ -39,6 +39,8 @@ Una vez obtenido el dataset limpio y preprocesado se realizan los siguientes gr�
 ![image](https://github.com/user-attachments/assets/c6b089e6-b216-4c55-a7b9-1cf84147f045)
 
 
+
+
 # SPACE MISSION LAUNCHES
 En este proyecto se utiliza un conjunto de datos relacionado con lanzamientos de misiones espaciales, se realiza la limpieza, preprocesamiento y visualización de dichos datos.
 
@@ -60,5 +62,28 @@ Se fue realizando un análisis por columnas para detectar si habia algun dato fa
 ## 3)Visualización
 Una vez obtenido el dataset limpio se realizaron 2 dashboards interactivos en Power BI:
 ![image](https://github.com/user-attachments/assets/ded76183-d6ee-4003-a368-7092f735873a)
+
+
 ![image](https://github.com/user-attachments/assets/3a7a22fd-f29d-43b9-b709-1f77178d1cc8)
+
+
+
+# POWER BI
+Se realizaron varios ejercicios de prueba para la practica de dashboards en power bi.
+
+## Ej1
+-Futuro Tecno: Empresa ficticia de tecnología en la cual se realizan gráficos para analizar sus ventas de acuerdo a paises, clientes, marcas, etc.
+
+![image](https://github.com/user-attachments/assets/7f951449-94d5-4aba-b9af-f9f518b6b839)
+
+
+## Ej2
+-Merx: Empresa ficticia de productos alimenticios en la cual se realizaron 3 dashboards para analizar sus ventas de acuerdo a fecha, productos, categorías, etc.
+
+![image](https://github.com/user-attachments/assets/db75198a-2cb7-439c-829e-fd52088b5768)
+
+![image](https://github.com/user-attachments/assets/40159534-0a1e-4881-b2ca-a83f821e7171)
+
+![image](https://github.com/user-attachments/assets/99a3cc7c-41a2-48b4-95f6-3c3630dc602f)
+
 
